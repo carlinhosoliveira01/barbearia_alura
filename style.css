@@ -1,12 +1,17 @@
-body {
-    background:rebeccapurple
+
+background: #CCCCCC;
 }
 
-h1{
-     text-align: center;
+h1 {
+text-align: center;
 }
 
-p{
-        text-align: center;
-    }
+p {
+text-align: center;
+}
+
+#missao {
+color: red;
+font-size: 18px;
+}
 
