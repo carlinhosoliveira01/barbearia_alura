@@ -34,6 +34,8 @@ font-style: italic;
 ul {
     display: inline block;
     width: 20%;
+     vertical-align: top;
+     margin-right: 15;
 }
 
 .beneficios-imagens{
