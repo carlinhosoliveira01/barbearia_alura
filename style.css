@@ -9,6 +9,7 @@ p {
 text-align: center;
 }
 
+
 #missao {
 color: red;
 font-size: 18px;
@@ -30,3 +31,13 @@ font-style: italic;
 .beneficios {
         background-color: white;
 }
+ul {
+    display: inline block;
+    width: 20%;
+}
+
+.beneficios-imagens{
+    width: 50%;
+}
+
+
